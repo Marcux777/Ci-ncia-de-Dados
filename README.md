@@ -1,2 +1,2 @@
 # Ci-ncia-de-Dados
-Repisitorio com meus estudos para Ciência de Dados
+Repositorio com meus estudos para Ciência de Dados >_<
