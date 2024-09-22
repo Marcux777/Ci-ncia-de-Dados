@@ -1,0 +1,3 @@
+[submodule "Kaggle"]
+	path = Kaggle
+	url = https://github.com/Marcux777/Kaggle.git
